@@ -1,0 +1,566 @@
+body {
+    margin: 0;
+}
+
+.gjs-row {
+    display: flex;
+    justify-content: flex-start;
+    align-items: stretch;
+    flex-wrap: nowrap;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.gjs-cell {
+    min-height: 75px;
+    flex-grow: 1;
+    flex-basis: 100%;
+}
+
+#template-idd6 {
+    flex-basis: 17%;
+    background-color: #1c1e2e;
+    background-image: url('https://grapesjs-images.s3.amazonaws.com/grapesjsimages/left%20side%20bg1.png');
+    background-repeat: repeat;
+    background-position: lefttop;
+    background-attachment: scroll;
+    background-size: auto;
+}
+
+#template-itfo {
+    flex-basis: 62%;
+    background-color: #f1f4ff;
+    transform: translateX(0px)translateY(0px);
+}
+
+#template-iziz {
+    flex-basis: 21%;
+    background-color: #fafcfe;
+}
+
+#template-idzb {
+    padding: 0000;
+    height: 100vh;
+}
+
+#template-ixqf {
+    flex-wrap: wrap;
+}
+
+#template-i2gk {
+    padding: 10px;
+}
+
+#template-i2ah {
+    color: #e8e7ee;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+#template-ip9i5 {
+    padding: 0000;
+}
+
+#template-i1a71 {
+    flex-basis: 32%;
+    min-height: 32px;
+    height: 32px;
+}
+
+#template-izyzy {
+    color: black;
+    width: 32px;
+}
+
+#template-i2mor {
+    min-height: 32px;
+    padding: 5px04px0;
+}
+
+#template-ix09x {
+    color: #e8e7ee;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+#template-ia6yq {
+    color: black;
+    width: 32px;
+}
+
+#template-i2ecy {
+    flex-basis: 32%;
+    min-height: 32px;
+    height: 32px;
+}
+
+#template-iwzvy {
+    min-height: 32px;
+    padding: 5px04px0;
+}
+
+#template-iuco4 {
+    color: #e8e7ee;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+#template-ixx0h {
+    color: black;
+    width: 32px;
+}
+
+#template-iv0kt {
+    flex-basis: 32%;
+    min-height: 32px;
+    height: 32px;
+}
+
+#template-i4e57 {
+    min-height: 32px;
+    padding: 5px04px0;
+}
+
+#template-i7r09 {
+    color: #000000;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+#template-ie28b {
+    color: black;
+    width: 32px;
+    height: 32px;
+}
+
+#template-iusli {
+    flex-basis: 32%;
+    min-height: 32px;
+    height: 32px;
+}
+
+#template-iy6je {
+    min-height: 32px;
+    padding: 5px04px0;
+}
+
+#template-ifs56 {
+    color: #e8e7ee;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+#template-iksrh {
+    color: black;
+    width: 32px;
+}
+
+#template-issmd {
+    flex-basis: 32%;
+    min-height: 32px;
+    height: 32px;
+}
+
+#template-ilbeg {
+    min-height: 32px;
+    padding: 5px04px0;
+}
+
+#template-il3ue {
+    color: #e8e7ee;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+#template-id40h {
+    margin: 150px000;
+    padding: 10px20px020px;
+}
+
+#template-ichy5 {
+    min-height: 30px;
+    height: 30px;
+    flex-basis: 30px;
+    background-color: #2465fd;
+    border-radius: 20%20%20%20%;
+    max-width: 30px;
+    text-align: center;
+    margin: 6px000;
+    padding: 10px000;
+}
+
+#template-ijkdv {
+    min-height: 40px;
+    height: 40px;
+    flex-basis: 50%;
+}
+
+#template-i9qfn {
+    color: black;
+}
+
+#template-i2s3s {
+    padding: 14px20px10px20px;
+    background-color: #fafcff;
+}
+
+#template-iplkex {
+    min-height: 40px;
+    height: 40px;
+    flex-basis: 20%;
+}
+
+#template-it8bl4 {
+    background-color: #fcfdff;
+    border: 1pxsolid#ffffff;
+    height: 40px;
+    border-radius: 10px10px10px10px;
+    box-shadow: 03px6px0rgba(0000.13);
+}
+
+#template-ihrr9l {
+    padding: 10px10px10px10px;
+}
+
+#template-i3pyqy {
+    text-align: center;
+}
+
+#template-ir1nd4 {
+    padding: 5px10px5px10px;
+    border-radius: 10px10px10px10px;
+    box-shadow: 03px6px0rgba(0000.12);
+}
+
+#template-ims38g {
+    color: black;
+    height: 168px;
+}
+
+#template-ibsi1l {
+    padding: 10px10px010px;
+    font-size: 13px;
+    color: #635f73;
+}
+
+#template-ij88vi {
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #232323;
+    line-height: 17px;
+}
+
+#template-iyeyt6 {
+    padding: 010px010px;
+    font-size: 12px;
+    font-weight: 500;
+    color: #635f73;
+    line-height: 17px;
+}
+
+#template-i1rq9h {
+    background-color: #ffffff;
+    width: 60%;
+    border-radius: 50px50px50px50px;
+    margin: 16px08px38px;
+    color: #5d5d5d;
+    box-shadow: 03px5px0rgba(0000.15);
+    border: 0solid#5f3030;
+    font-size: 15px;
+}
+
+#template-i7g2xl {
+    padding: 5px10px5px10px;
+    background-color: #f1f4ff;
+    border-radius: 10px10px10px10px;
+}
+
+#template-i9w0nk {
+    min-height: 50px;
+    text-align: right;
+}
+
+#template-iqdak4 {
+    min-height: 50px;
+    text-align: right;
+    flex-basis: 20%;
+    padding: 5px000;
+}
+
+#template-i8oyqg {
+    padding: 10px;
+    color: #000000;
+    font-weight: 500;
+}
+
+#template-i2t9kj {
+    color: black;
+}
+
+#template-i0o9l {
+    min-height: 50px;
+    border-radius: 10px10px10px10px;
+    background-color: rgba(2552552550.13);
+    border: 1pxsolid#fbfbfb;
+    margin: 016px00;
+}
+
+#template-i7ut96 {
+    min-height: 40px;
+    height: 40px;
+    padding: 0000;
+    margin: 5px5px05px;
+    border-radius: 10px10px10px10px;
+    background-color: #fcfdff;
+}
+
+#template-ie9i4s {
+    min-height: 40px;
+    flex-basis: 70%;
+}
+
+#template-ig8xmv {
+    min-height: 40px;
+    flex-basis: 30%;
+}
+
+#template-if2dbz {
+    color: black;
+}
+
+#template-i95lcc {
+    padding: 5px05px5px;
+    color: #4e59b0;
+    min-height: 40px;
+    height: 40px;
+    text-align: center;
+    font-weight: 500;
+}
+
+#template-iz5gxw {
+    padding: 5px10px5px10px;
+}
+
+#template-ix09fg {
+    padding: 010px10px10px;
+}
+
+#template-iae126 {
+    padding: 010px010px;
+    background-color: #f1f4ff;
+}
+
+#template-ihlsxz {
+    color: black;
+    margin: 5px000;
+}
+
+#template-i3aglh {
+    min-height: 60px;
+}
+
+#template-ixv9t {
+    background-color: #f1f4ff;
+    border-radius: 10px10px10px10px;
+    box-shadow: 03px6px0rgba(0000.22);
+}
+
+#template-i7201u {
+    min-height: 40px;
+}
+
+#template-ivcoeg {
+    padding: 10px10px010px;
+    font-weight: 500;
+}
+
+#template-i9nh2x {
+    padding: 10px20px020px;
+}
+
+#template-ir77j2 {
+    min-height: 40px;
+}
+
+#template-ied316 {
+    padding: 10px30px10px30px;
+}
+
+#template-im34pl {
+    min-height: 40px;
+    border-radius: 10px10px10px10px;
+    border: 1pxsolid#e6e6e6;
+    background-color: #fafcfe;
+}
+
+#template-iaq9qc {
+    padding: 0000;
+}
+
+#template-iwqpy7 {
+    min-height: 40px;
+}
+
+#template-ibws5n {
+    min-height: 40px;
+}
+
+#template-io4pwd {
+    padding: 0000;
+}
+
+#template-i7dnia {
+    min-height: 40px;
+    max-width: 60%;
+}
+
+#template-inkxmp {
+    max-width: 40%;
+    min-height: 40px;
+}
+
+#template-iy9zxv {
+    padding: 10px;
+}
+
+#template-ilcbrz {
+    padding: 10px;
+}
+
+#template-iirtg7 {
+    color: rgb(163163163);
+}
+
+#template-ifws9v {
+    padding: 0000;
+}
+
+#template-ij83ta {
+    min-height: 40px;
+    max-width: 90%;
+}
+
+#template-ikf3vj {
+    min-height: 40px;
+    max-width: 10%;
+}
+
+#template-imz2ph {
+    padding: 10px;
+    text-align: right;
+}
+
+#template-iuoach {
+    padding: 0000;
+}
+
+#template-iaeihk {
+    min-height: 28px;
+    height: 30px;
+    flex-basis: 54%;
+    max-width: 30px;
+    margin: 8px000;
+    padding: 7px000;
+    border-radius: 10px10px10px10px;
+    background-color: #edf2fe;
+    text-align: center;
+}
+
+#template-itzrfi {
+    color: black;
+    height: 15px;
+}
+
+@media(max-width:992px) {
+    #template-idd6 {
+        display: none;
+    }
+
+    #template-iziz {
+        display: none;
+    }
+
+    #template-ijkdv {
+        display: none;
+    }
+
+    #template-iplkex {
+        margin: 00022px;
+        max-width: 40%;
+    }
+
+    #template-i9nh2x {
+        flex-wrap: nowrap;
+    }
+
+    #template-ied316 {
+        flex-wrap: nowrap;
+    }
+
+    #template-iaq9qc {
+        flex-wrap: nowrap;
+    }
+}
+
+@media(max-width:768px) {
+    .gjs-row {
+        flex-wrap: wrap;
+    }
+}
+
+@media(max-width:575px) {
+    #template-i2s3s {
+        text-align: right;
+    }
+
+    #template-ijkdv {
+        display: none;
+    }
+
+    #template-it8bl4 {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    #template-iplkex {
+        text-align: right;
+        margin: 00028px;
+        max-width: 100%;
+    }
+
+    #template-ij83ta {
+        max-width: 79%;
+    }
+
+    #template-ikf3vj {
+        max-width: 20%;
+    }
+
+    #template-ilcbrz {
+        padding: 10px000;
+    }
+
+    #template-iy9zxv {
+        padding: 10px010px10px;
+    }
+
+    #template-ibws5n {
+        flex-basis: 4%;
+    }
+
+    #template-inkxmp {
+        flex-basis: 100px;
+        max-width: 30%;
+    }
+
+    #template-iwqpy7 {
+        max-width: 164px;
+    }
+
+    #template-i7dnia {
+        max-width: 70%;
+    }
+}

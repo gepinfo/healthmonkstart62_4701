@@ -1,0 +1,1574 @@
+body {
+    margin: 0;
+}
+
+.gjs-row {
+    display: flex;
+    justify-content: flex-start;
+    align-items: stretch;
+    flex-wrap: nowrap;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.gjs-cell {
+    min-height: 75px;
+    flex-grow: 1;
+    flex-basis: 100%;
+}
+
+#template-idd6 {
+    flex-basis: 17%;
+    background-color: #1c1e2e;
+    background-image: url('https://grapesjs-images.s3.amazonaws.com/grapesjsimages/left%20side%20bg1.png');
+    background-repeat: repeat;
+    background-position: lefttop;
+    background-attachment: scroll;
+    background-size: auto;
+}
+
+#template-itfo {
+    flex-basis: 62%;
+    background-color: #f1f4ff;
+    transform: translateX(0px)translateY(0px);
+    font-weight: 500;
+}
+
+#template-iziz {
+    flex-basis: 21%;
+    background-color: #fafcfe;
+}
+
+#template-idzb {
+    padding: 0000;
+    height: 100vh;
+}
+
+#template-ixqf {
+    flex-wrap: wrap;
+}
+
+#template-i2gk {
+    padding: 10px;
+}
+
+#template-i2ah {
+    color: #e8e7ee;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+#template-ip9i5 {
+    padding: 0000;
+}
+
+#template-i1a71 {
+    flex-basis: 32%;
+    min-height: 32px;
+    height: 32px;
+}
+
+#template-izyzy {
+    color: black;
+    width: 32px;
+}
+
+#template-i2mor {
+    min-height: 32px;
+    padding: 5px04px0;
+}
+
+#template-ix09x {
+    color: #e8e7ee;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+#template-ia6yq {
+    color: black;
+    width: 32px;
+}
+
+#template-i2ecy {
+    flex-basis: 32%;
+    min-height: 32px;
+    height: 32px;
+}
+
+#template-iwzvy {
+    min-height: 32px;
+    padding: 5px04px0;
+}
+
+#template-iuco4 {
+    color: #e8e7ee;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+#template-ixx0h {
+    color: black;
+    width: 32px;
+}
+
+#template-iv0kt {
+    flex-basis: 32%;
+    min-height: 32px;
+    height: 32px;
+}
+
+#template-i4e57 {
+    min-height: 32px;
+    padding: 5px04px0;
+}
+
+#template-i7r09 {
+    color: #000000;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+#template-ie28b {
+    color: black;
+    width: 32px;
+    height: 32px;
+}
+
+#template-iusli {
+    flex-basis: 32%;
+    min-height: 32px;
+    height: 32px;
+}
+
+#template-iy6je {
+    min-height: 32px;
+    padding: 5px04px0;
+}
+
+#template-ifs56 {
+    color: #e8e7ee;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+#template-iksrh {
+    color: black;
+    width: 32px;
+}
+
+#template-issmd {
+    flex-basis: 32%;
+    min-height: 32px;
+    height: 32px;
+}
+
+#template-ilbeg {
+    min-height: 32px;
+    padding: 5px04px0;
+}
+
+#template-il3ue {
+    color: #e8e7ee;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+#template-id40h {
+    margin: 150px000;
+    padding: 10px20px020px;
+}
+
+#template-irr8c {
+    min-height: 50px;
+    height: 50px;
+    border-radius: 10px10px10px10px;
+    border: 1pxsolid#ebe8e8;
+    background-color: #fcfdff;
+    padding: 10px010px0;
+}
+
+#template-il2yh {
+    padding: 10px20px10px20px;
+}
+
+#template-ichy5 {
+    min-height: 30px;
+    height: 30px;
+    flex-basis: 30px;
+    background-color: #2465fd;
+    border-radius: 20%20%20%20%;
+    max-width: 30px;
+    text-align: center;
+    margin: 6px000;
+    padding: 10px000;
+}
+
+#template-ijkdv {
+    min-height: 40px;
+    height: 40px;
+    flex-basis: 50%;
+}
+
+#template-i9qfn {
+    color: black;
+}
+
+#template-innfz {
+    padding: 10px;
+    color: #000000;
+    font-weight: 500;
+    min-height: 23px;
+    height: 40px;
+}
+
+#template-i2s3s {
+    padding: 14px20px10px20px;
+    background-color: #fafcff;
+}
+
+#template-iwm3n {
+    min-height: 40px;
+    text-align: center;
+}
+
+#template-i48ff {
+    min-height: 30px;
+    border-radius: 10px10px10px10px;
+    background-color: #2465fd;
+    text-align: center;
+    opacity: 1;
+    padding: 0000;
+}
+
+#template-igezt {
+    padding: 05px05px;
+    margin: -6px000;
+}
+
+#template-ianqk {
+    padding: 8px000;
+    height: 40px;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+#template-idkek {
+    padding: 8px000;
+    height: 40px;
+    color: #6e6c79;
+    font-size: 15px;
+}
+
+#template-iedf1 {
+    padding: 8px000;
+    height: 40px;
+    color: #6e6c79;
+    font-size: 15px;
+}
+
+#template-iiiev {
+    min-height: 40px;
+    text-align: center;
+}
+
+#template-i3yh5 {
+    padding: 8px000;
+    height: 40px;
+    color: #6e6c79;
+    font-size: 15px;
+}
+
+#template-iei5v {
+    min-height: 40px;
+    text-align: center;
+}
+
+#template-iudwx {
+    padding: 8px000;
+    height: 40px;
+    color: #6e6c79;
+    font-size: 15px;
+}
+
+#template-ilbd8 {
+    min-height: 40px;
+    text-align: center;
+}
+
+#template-i4bbxt {
+    min-height: 60vh;
+    border-radius: 10px10px10px10px;
+    border: 1pxsolid#ffffff;
+    background-color: #fafcfe;
+    padding: 0010px0;
+    box-shadow: 03px6px0rgba(0000.16);
+}
+
+#template-i5or3c {
+    padding: 10px20px10px20px;
+}
+
+#template-iu134 {
+    padding: 010px010px;
+    min-height: 50px;
+    height: 50px;
+    flex-wrap: nowrap;
+}
+
+#template-iw55z {
+    min-height: 50px;
+}
+
+#template-i7wig {
+    min-height: 8px;
+    height: 0;
+    margin: -4px0018%;
+    flex-basis: 125%;
+    background-color: #2465fd;
+    max-width: 10%;
+    border-radius: 20px20px20px20px;
+    padding: 0000;
+}
+
+#template-ioqgs {
+    padding: 010px00;
+    min-height: 1px;
+    height: 1px;
+    background-color: #ededed;
+    margin: 0000;
+}
+
+#template-ifklg {
+    padding: 10px;
+    width: 100px;
+    color: #6e6c79;
+    text-align: left;
+    float: left;
+    max-width: 57px;
+    font-weight: 400;
+}
+
+#template-ivpewi {
+    padding: 10px;
+    width: 100px;
+    color: #6e6c79;
+    text-align: left;
+    float: left;
+    max-width: 60px;
+    font-weight: 400;
+}
+
+#template-i4d7ix {
+    padding: 10px;
+    color: #e8e7ee;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+#template-inltqf {
+    min-height: 50px;
+    flex-basis: 80%;
+}
+
+#template-icb89m {
+    padding: 10px;
+    color: #b3b3b3;
+    font-size: 15px;
+}
+
+#template-iicopd {
+    min-height: 50px;
+}
+
+#template-ifc67q {
+    flex-wrap: nowrap;
+    padding: 0000;
+}
+
+#template-i0ekmd {
+    flex-wrap: nowrap;
+    transform: translateX(0px)translateY(10px);
+    min-height: 50px;
+}
+
+#template-iqakax {
+    padding: 10px;
+    color: #ffffff;
+    font-size: 15px;
+}
+
+#template-iex9kh {
+    min-height: 50px;
+    text-align: right;
+}
+
+#template-i3wxsh {
+    color: black;
+}
+
+#template-i6539e {
+    min-height: 50px;
+    text-align: right;
+    padding: 10px010px0;
+    flex-basis: 50%;
+}
+
+#template-itdklv {
+    flex-wrap: nowrap;
+    padding: 0000;
+}
+
+#template-iu42jl {
+    flex-wrap: nowrap;
+    transform: translateX(0px)translateY(10px);
+    min-height: 50px;
+}
+
+#template-i0rm76 {
+    padding: 040px10px40px;
+    display: none;
+}
+
+#template-ijmj4h {
+    padding: 10px;
+    color: #e8e7ee;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+#template-i2veau {
+    min-height: 50px;
+    flex-basis: 80%;
+}
+
+#template-icwouz {
+    padding: 10px;
+    color: #b3b3b3;
+    font-size: 15px;
+}
+
+#template-iiw1eq {
+    min-height: 50px;
+}
+
+#template-icp1yi {
+    flex-wrap: nowrap;
+    padding: 0000;
+}
+
+#template-izhbtk {
+    flex-wrap: nowrap;
+    transform: translateX(0px)translateY(10px);
+    min-height: 50px;
+}
+
+#template-itnnrj {
+    padding: 10px;
+    color: #ffffff;
+    font-size: 15px;
+}
+
+#template-i33fdh {
+    min-height: 50px;
+    text-align: right;
+}
+
+#template-i5r7ff {
+    color: black;
+}
+
+#template-ivod8n {
+    min-height: 50px;
+    text-align: right;
+    padding: 10px010px0;
+    flex-basis: 50%;
+}
+
+#template-immxxo {
+    flex-wrap: nowrap;
+    padding: 0000;
+}
+
+#template-i3b87k {
+    flex-wrap: nowrap;
+    transform: translateX(0px)translateY(10px);
+    min-height: 50px;
+}
+
+#template-ifb9ab {
+    padding: 040px10px40px;
+    display: none;
+}
+
+#template-id099f {
+    padding: 10px;
+    color: #e8e7ee;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+#template-irnfah {
+    min-height: 50px;
+    flex-basis: 80%;
+}
+
+#template-ikxr8g {
+    padding: 10px;
+    color: #b3b3b3;
+    font-size: 15px;
+}
+
+#template-it769t {
+    min-height: 50px;
+}
+
+#template-ie9yn3 {
+    flex-wrap: nowrap;
+    padding: 0000;
+}
+
+#template-i9vvwm {
+    flex-wrap: nowrap;
+    transform: translateX(0px)translateY(10px);
+    min-height: 50px;
+}
+
+#template-i97b9x {
+    padding: 10px;
+    color: #ffffff;
+    font-size: 15px;
+}
+
+#template-ircv5g {
+    min-height: 50px;
+    text-align: right;
+}
+
+#template-iou78j {
+    color: black;
+}
+
+#template-i2uj3k {
+    min-height: 50px;
+    text-align: right;
+    padding: 10px010px0;
+    flex-basis: 50%;
+}
+
+#template-iq4hcf {
+    flex-wrap: nowrap;
+    padding: 0000;
+}
+
+#template-iuvcud {
+    flex-wrap: nowrap;
+    transform: translateX(0px)translateY(10px);
+    min-height: 50px;
+}
+
+#template-i0vt1d {
+    padding: 040px10px40px;
+    display: none;
+}
+
+#template-imacqv {
+    min-height: 1px;
+    height: 1px;
+    background-color: #c9c9c9;
+    opacity: 0.5;
+    display: none;
+}
+
+#template-i0ixyc {
+    height: 1px;
+    min-height: 1px;
+    padding: 0000;
+    transform: translateX(0px)translateY(0px);
+}
+
+#template-ij5vr9 {
+    min-height: 1px;
+    height: 1px;
+    background-color: #c9c9c9;
+    opacity: 0.56;
+}
+
+#template-inrh7w {
+    height: 1px;
+    min-height: 1px;
+    padding: 010px010px;
+    transform: translateX(0px)translateY(0px);
+    display: none;
+}
+
+#template-i3ehsg {
+    min-height: 1px;
+    height: 1px;
+    background-color: #c9c9c9;
+    opacity: 0.5;
+}
+
+#template-iz27ai {
+    height: 1px;
+    min-height: 1px;
+    padding: 010px010px;
+    transform: translateX(0px)translateY(0px);
+    display: none;
+}
+
+#template-iplkex {
+    min-height: 40px;
+    height: 40px;
+    flex-basis: 20%;
+}
+
+#template-it8bl4 {
+    background-color: #fcfdff;
+    border: 1pxsolid#ffffff;
+    height: 40px;
+    border-radius: 10px10px10px10px;
+    box-shadow: 03px6px0rgba(0000.13);
+}
+
+#template-izvpws {
+    flex-wrap: nowrap;
+    transform: translateX(0px)translateY(10px);
+    min-height: 50px;
+    flex-basis: 200%;
+}
+
+#template-iv5bwf {
+    min-height: 50px;
+    text-align: right;
+    padding: 0000;
+    flex-basis: 50%;
+    flex-wrap: nowrap;
+}
+
+#template-iu6fp4 {
+    flex-wrap: nowrap;
+    padding: 0000;
+}
+
+#template-io08nc {
+    flex-wrap: nowrap;
+    transform: translateX(0px)translateY(10px);
+    min-height: 50px;
+}
+
+#template-is3p0w {
+    padding: 0010px0;
+}
+
+#template-i5zvcm {
+    height: 1px;
+    min-height: 1px;
+    padding: 010px010px;
+    transform: translateX(0px)translateY(0px);
+    display: none;
+}
+
+#template-ihrr9l {
+    padding: 10px10px10px10px;
+}
+
+#template-i3pyqy {
+    text-align: center;
+}
+
+#template-ir1nd4 {
+    padding: 5px10px5px10px;
+    border-radius: 10px10px10px10px;
+    box-shadow: 03px6px0rgba(0000.12);
+}
+
+#template-ims38g {
+    color: black;
+    height: 168px;
+}
+
+#template-ibsi1l {
+    padding: 10px10px010px;
+    font-size: 13px;
+    color: #635f73;
+}
+
+#template-ij88vi {
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #232323;
+    line-height: 17px;
+}
+
+#template-iyeyt6 {
+    padding: 010px010px;
+    font-size: 12px;
+    font-weight: 500;
+    color: #635f73;
+    line-height: 17px;
+}
+
+#template-i1rq9h {
+    background-color: #ffffff;
+    width: 60%;
+    border-radius: 50px50px50px50px;
+    margin: 16px08px38px;
+    color: #5d5d5d;
+    box-shadow: 03px5px0rgba(0000.15);
+    border: 0solid#5f3030;
+    font-size: 15px;
+}
+
+#template-i7g2xl {
+    padding: 5px10px5px10px;
+    background-color: #f1f4ff;
+    border-radius: 10px10px10px10px;
+}
+
+#template-ihbywk {
+    display: none;
+}
+
+#template-iopybm {
+    min-height: 1px;
+    height: 1px;
+    background-color: #c9c9c9;
+    opacity: 0.5;
+}
+
+#template-io6g1i {
+    height: 1px;
+    min-height: 1px;
+    padding: 010px010px;
+    transform: translateX(0px)translateY(0px);
+    display: none;
+}
+
+#template-i9w0nk {
+    min-height: 50px;
+    text-align: right;
+}
+
+#template-iqdak4 {
+    min-height: 50px;
+    text-align: right;
+    flex-basis: 20%;
+    padding: 5px000;
+}
+
+#template-i8oyqg {
+    padding: 10px;
+    color: #000000;
+    font-weight: 500;
+}
+
+#template-i2t9kj {
+    color: black;
+}
+
+#template-i0o9l {
+    min-height: 50px;
+    border-radius: 10px10px10px10px;
+    background-color: rgba(2552552550.13);
+    border: 1pxsolid#fbfbfb;
+    margin: 016px00;
+}
+
+#template-i7ut96 {
+    min-height: 40px;
+    height: 40px;
+    padding: 0000;
+    margin: 5px5px05px;
+    border-radius: 10px10px10px10px;
+    background-color: #fcfdff;
+}
+
+#template-ie9i4s {
+    min-height: 40px;
+    flex-basis: 70%;
+}
+
+#template-ig8xmv {
+    min-height: 40px;
+    flex-basis: 30%;
+}
+
+#template-if2dbz {
+    color: black;
+}
+
+#template-i95lcc {
+    padding: 5px05px5px;
+    color: #4e59b0;
+    min-height: 40px;
+    height: 40px;
+    text-align: center;
+    font-weight: 500;
+}
+
+#template-iz5gxw {
+    padding: 5px10px5px10px;
+}
+
+#template-ix09fg {
+    padding: 010px10px10px;
+}
+
+#template-iae126 {
+    padding: 010px010px;
+    background-color: #f1f4ff;
+}
+
+#template-ihlsxz {
+    color: black;
+    margin: 5px000;
+}
+
+#template-i3aglh {
+    min-height: 60px;
+}
+
+#template-ixv9t {
+    background-color: #f1f4ff;
+    border-radius: 10px10px10px10px;
+    box-shadow: 03px6px0rgba(0000.22);
+}
+
+#template-iur9sp {
+    padding: 10px;
+    width: 100px;
+    color: #000000;
+    text-align: left;
+    float: left;
+    max-width: 90px;
+    font-weight: 500;
+}
+
+#template-iryhsi {
+    padding: 20px20px10px20px;
+}
+
+#template-iqg5h4 {
+    margin: 0000;
+    padding: 0010px0;
+    border-radius: 10px10px10px10px;
+    border: 1pxsolid#d6d6d6;
+}
+
+#template-ib6oou {
+    min-height: 40px;
+}
+
+#template-inphgi {
+    min-height: 40px;
+    max-width: 33%;
+}
+
+#template-iv7jtl {
+    padding: 0000;
+}
+
+#template-irxvx6 {
+    padding: 0000;
+}
+
+#template-ii74rl {
+    min-height: 40px;
+    max-width: 20%;
+    text-align: center;
+    padding: 10px000;
+}
+
+#template-ipjyhs {
+    min-height: 40px;
+    max-width: 86%;
+    margin: 00048px;
+}
+
+#template-iw61k3 {
+    min-height: 40px;
+}
+
+#template-i5up4i {
+    min-height: 40px;
+}
+
+#template-i9b5is {
+    padding: 0000;
+}
+
+#template-ijbkvd {
+    padding: 10px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+#template-i2hb8i {
+    padding: 10px;
+    font-weight: 400;
+    color: #635f73;
+    font-size: 15px;
+}
+
+#template-iezcw4 {
+    padding: 0000;
+}
+
+#template-ikhytt {
+    min-height: 40px;
+    max-width: 35px;
+    padding: 5px000;
+}
+
+#template-iz80xg {
+    min-height: 20px;
+    height: 20px;
+    max-width: 20px;
+    flex-basis: 25%;
+    border-radius: 50px50px50px50px;
+    background-color: #2465fd;
+    text-align: center;
+}
+
+#template-iebl8s {
+    padding: 5px5px5px5px;
+}
+
+#template-iatzni {
+    min-height: 20px;
+    height: 20px;
+    max-width: 20px;
+    flex-basis: 20%;
+    border-radius: 50px50px50px50px;
+    background-color: #2465fd;
+}
+
+#template-i0l7pc {
+    padding: 5px5px5px5px;
+}
+
+#template-ic69gj {
+    min-height: 40px;
+    max-width: 35px;
+    padding: 5px000;
+}
+
+#template-iy1uvf {
+    min-height: 40px;
+    max-width: 60px;
+}
+
+#template-i1qvmh {
+    padding: 0000;
+    border-radius: 10px10px10px10px;
+    background-color: #e6e6e6;
+    text-align: center;
+}
+
+#template-ikcyag {
+    min-height: 40px;
+    max-width: 40px;
+    flex-basis: 40%;
+    text-align: center;
+}
+
+#template-irq7r3 {
+    color: black;
+    height: 20px;
+}
+
+#template-i8givg {
+    color: black;
+    height: 10px;
+    margin: 5px006px;
+}
+
+#template-i1t7qm {
+    color: black;
+    margin: 9px000;
+}
+
+#template-i36c5s {
+    padding: 10px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+#template-ifaqxt {
+    min-height: 40px;
+}
+
+#template-ihmldo {
+    padding: 10px;
+    font-weight: 400;
+    color: #635f73;
+    font-size: 15px;
+}
+
+#template-ic8xjc {
+    min-height: 40px;
+}
+
+#template-iafggf {
+    padding: 0000;
+}
+
+#template-izto4h {
+    min-height: 40px;
+}
+
+#template-ia62xw {
+    color: black;
+    margin: 9px000;
+}
+
+#template-itvjax {
+    min-height: 20px;
+    height: 20px;
+    max-width: 20px;
+    flex-basis: 25%;
+    border-radius: 50px50px50px50px;
+    background-color: #2465fd;
+    text-align: center;
+}
+
+#template-igju9j {
+    padding: 5px5px5px5px;
+}
+
+#template-iyrndi {
+    min-height: 40px;
+    max-width: 35px;
+    padding: 5px000;
+}
+
+#template-id5tj5 {
+    min-height: 40px;
+    max-width: 40px;
+    flex-basis: 40%;
+    text-align: center;
+}
+
+#template-ik2vil {
+    padding: 0000;
+    border-radius: 10px10px10px10px;
+    background-color: #e6e6e6;
+}
+
+#template-ig2tgf {
+    min-height: 40px;
+    max-width: 60px;
+}
+
+#template-i5ksof {
+    color: black;
+    height: 10px;
+    margin: 5px006px;
+}
+
+#template-ibtzr2 {
+    min-height: 20px;
+    height: 20px;
+    max-width: 20px;
+    flex-basis: 20%;
+    border-radius: 50px50px50px50px;
+    background-color: #2465fd;
+}
+
+#template-ipt2wx {
+    padding: 5px5px5px5px;
+}
+
+#template-i2d64k {
+    min-height: 40px;
+    max-width: 35px;
+    padding: 5px000;
+}
+
+#template-ih79fx {
+    padding: 0000;
+}
+
+#template-i7xgbm {
+    min-height: 40px;
+    max-width: 86%;
+    margin: 00048px;
+}
+
+#template-ib9nmu {
+    color: black;
+    height: 20px;
+}
+
+#template-is8mn2 {
+    min-height: 40px;
+    max-width: 20%;
+    text-align: center;
+    padding: 10px000;
+}
+
+#template-if6j07 {
+    padding: 0000;
+}
+
+#template-izd0hq {
+    min-height: 40px;
+    max-width: 33%;
+}
+
+#template-iytxdz {
+    padding: 0000;
+}
+
+#template-ie3wrk {
+    min-height: 1px;
+    background-color: #e1e1e1;
+    opacity: 1;
+    color: #d6d6d6;
+}
+
+#template-i2n52f {
+    height: 1px;
+    min-height: 1px;
+    padding: 10px010px0;
+    margin: 0000;
+}
+
+#template-if5bao {
+    background-color: #2465fd;
+    width: 20%;
+    font-weight: 500;
+    border-radius: 10px10px10px10px;
+}
+
+#template-insyqj {
+    min-height: 39px;
+    text-align: right;
+    padding: 010px00;
+}
+
+#template-inz1bj {
+    min-height: 1px;
+    background-color: #292b3a;
+    opacity: 0.2;
+}
+
+#template-i9aesa {
+    height: 1px;
+    min-height: 1px;
+    padding: 020px020px;
+    margin: 3%000;
+}
+
+#template-io20ou {
+    padding: 10px;
+    color: #000000;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+#template-i74prz {
+    min-height: 50px;
+    flex-basis: 100%;
+}
+
+#template-ikscez {
+    padding: 10px;
+    color: #635f73;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+#template-ii9qg4 {
+    min-height: 50px;
+}
+
+#template-inba94 {
+    flex-wrap: nowrap;
+    padding: 0000;
+}
+
+#template-if60yh {
+    max-width: 20px;
+    min-height: 40px;
+    text-align: center;
+}
+
+#template-io9g0c {
+    color: black;
+    height: 20px;
+}
+
+#template-ign4dz {
+    padding: 10px;
+    text-align: center;
+}
+
+#template-ih7i1q {
+    padding: 10px;
+}
+
+#template-ibvdj9 {
+    color: #000000;
+}
+
+#template-izrvyk {
+    color: #000000;
+}
+
+#template-ibwswv {
+    min-height: 23px;
+}
+
+#template-ipk4zf {
+    padding: 00060%;
+    min-height: 40px;
+}
+
+@media(max-width:992px) {
+    #template-idd6 {
+        display: none;
+    }
+
+    #template-iziz {
+        display: none;
+    }
+
+    #template-il2yh {
+        display: none;
+    }
+
+    #template-ianqk {
+        display: none;
+    }
+
+    #template-i48ff {
+        display: none;
+    }
+
+    #template-idkek {
+        display: none;
+    }
+
+    #template-iwm3n {
+        display: none;
+    }
+
+    #template-ihbywk {
+        display: flex;
+        padding: 020px020px;
+        flex-wrap: nowrap;
+    }
+
+    #template-izjrvv {
+        min-height: 50px;
+        flex-basis: 50%;
+        text-align: left;
+        padding: 12px010px0;
+    }
+
+    #template-ijvr51 {
+        min-height: 40px;
+        text-align: right;
+        flex-basis: 50%;
+        padding: 10px000;
+    }
+
+    #template-i4cp4l {
+        padding-top: 0px;
+        padding-right: 0px;
+        padding-left: 0px;
+        padding-bottom: 0px;
+        text-align: right;
+        width: 50%;
+        margin: 000177px;
+    }
+
+    #template-itthd1 {
+        padding: 00010px;
+        font-weight: 500;
+    }
+
+    #template-ifxcxd {
+        color: #000000;
+    }
+
+    #template-ijkdv {
+        display: none;
+    }
+
+    #template-iplkex {
+        margin: 00022px;
+        max-width: 40%;
+    }
+
+    #template-io08nc {
+        display: block;
+        flex-wrap: nowrap;
+    }
+
+    #template-is3p0w {
+        flex-wrap: nowrap;
+    }
+
+    #template-i5zvcm {
+        display: none;
+    }
+
+    #template-i9b5is {
+        flex-wrap: nowrap;
+    }
+
+    #template-irxvx6 {
+        flex-wrap: nowrap;
+    }
+
+    #template-iv7jtl {
+        flex-wrap: nowrap;
+    }
+
+    #template-ib6oou {
+        flex-wrap: nowrap;
+    }
+
+    #template-iu6fp4 {
+        flex-wrap: wrap;
+    }
+
+    #template-iqg5h4 {
+        flex-wrap: wrap;
+    }
+
+    #template-izvpws {
+        flex-wrap: nowrap;
+    }
+
+    #template-iv5bwf {
+        padding: 0000;
+        flex-wrap: wrap;
+        flex-basis: 100%;
+    }
+
+    #template-iafggf {
+        flex-wrap: nowrap;
+    }
+
+    #template-izto4h {
+        flex-wrap: nowrap;
+    }
+
+    #template-if6j07 {
+        flex-wrap: nowrap;
+    }
+
+    #template-iytxdz {
+        flex-wrap: nowrap;
+    }
+
+    #template-i2n52f {
+        margin: 0000;
+    }
+
+    #template-i9aesa {
+        margin: 12px000;
+    }
+
+    #template-iaer1o {
+        flex-wrap: nowrap;
+        padding: 10px10px010px;
+    }
+
+    #template-if60yh {
+        max-width: 20px;
+    }
+}
+
+@media(max-width:768px) {
+    .gjs-row {
+        flex-wrap: wrap;
+    }
+}
+
+@media(max-width:575px) {
+    #template-i7wig {
+        max-width: 22%;
+        margin: -4px0036%;
+    }
+
+    #template-i5or3c {
+        padding: 21px20px10px20px;
+    }
+
+    #template-innfz {
+        font-size: 15px;
+    }
+
+    #template-ijvr51 {
+        padding: 5px000;
+    }
+
+    #template-i4cp4l {
+        width: 100%;
+        margin: 9px000;
+    }
+
+    #template-ihbywk {
+        padding: 020px020px;
+        margin: 13px000;
+    }
+
+    #template-izjrvv {
+        text-align: right;
+    }
+
+    #template-i2s3s {
+        text-align: right;
+    }
+
+    #template-inltqf {
+        flex-basis: 50%;
+    }
+
+    #template-irnfah {
+        flex-basis: 50%;
+    }
+
+    #template-i2veau {
+        flex-basis: 50%;
+    }
+
+    #template-i0rm76 {
+        display: none;
+    }
+
+    #template-i0vt1d {
+        display: none;
+    }
+
+    #template-ifb9ab {
+        display: none;
+    }
+
+    #template-is3p0w {
+        display: flex;
+        flex-wrap: nowrap;
+    }
+
+    #template-ijkdv {
+        display: none;
+    }
+
+    #template-it8bl4 {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    #template-iplkex {
+        text-align: right;
+        margin: 00028px;
+        max-width: auto;
+    }
+
+    #template-itthd1 {
+        padding: 10px;
+        color: #ffffff;
+        text-align: left;
+    }
+
+    #template-i5zvcm {
+        display: block;
+    }
+
+    #template-ib6oou {
+        flex-wrap: wrap;
+    }
+
+    #template-irxvx6 {
+        flex-wrap: wrap;
+    }
+
+    #template-iv7jtl {
+        flex-wrap: wrap;
+    }
+
+    #template-inphgi {
+        max-width: 100%;
+        flex-wrap: wrap;
+    }
+
+    #template-ipjyhs {
+        max-width: 80%;
+        margin: 0000;
+    }
+
+    #template-izto4h {
+        flex-wrap: wrap;
+    }
+
+    #template-i7xgbm {
+        max-width: 80%;
+        margin: 0000;
+    }
+
+    #template-if6j07 {
+        flex-wrap: wrap;
+    }
+
+    #template-izd0hq {
+        max-width: 100%;
+        flex-wrap: wrap;
+    }
+
+    #template-iytxdz {
+        flex-wrap: wrap;
+    }
+
+    #template-if5bao {
+        width: 50%;
+    }
+
+    #template-insyqj {
+        text-align: right;
+    }
+
+    #template-iu6fp4 {
+        flex-wrap: wrap;
+    }
+
+    #template-io08nc {
+        flex-wrap: wrap;
+        max-width: 20%;
+    }
+
+    #template-izvpws {
+        flex-wrap: nowrap;
+        flex-basis: 100%;
+        max-width: 80%;
+    }
+
+    #template-iv5bwf {
+        margin: 0000;
+    }
+
+    #template-io20ou {
+        padding: 10px10px5px10px;
+    }
+
+    #template-i74prz {
+        max-width: 42%;
+        flex-wrap: wrap;
+        min-height: 37px;
+    }
+
+    #template-ikscez {
+        padding: 010px010px;
+    }
+
+    #template-inba94 {
+        flex-wrap: nowrap;
+    }
+}
